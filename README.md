@@ -1,2 +1,2 @@
 # Hey there!
-I’m Will. I spent most days writing Node.js and React code. I live in sunny Denver with my chocolate lab, Romeo. I work as a software engineer for Openpath Security and love my job (please don’t send me recruiting emails).
+I’m Will. I spent most days writing JavaScript. I live in sunny Denver with my chocolate lab, Romeo. I work as a staff SWE for Openpath Security and love my job (please don’t send me recruiting emails). I'm passionate about helping self-taught engineers break into the industry- if there's anything I can do to help you in your journey, please don't hesitate to reach out.
